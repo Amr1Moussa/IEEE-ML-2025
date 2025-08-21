@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** file for your Kaggle diamond price prediction project:
-
----
-
 # 💎 Diamond Price Prediction
 
 This project uses the classic **Diamonds Dataset** from Kaggle to predict diamond prices based on their physical characteristics and quality metrics. It's a great exercise in data preprocessing, feature engineering, regression modeling, and evaluation.
